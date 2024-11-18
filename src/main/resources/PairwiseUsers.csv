@@ -1,0 +1,46 @@
+,»м€,‘амили€,email,username,plain_password,roles,isCV,ќткрытие поиска,—татус поиска
+1,User?*&^%,,dssdsdc,пустое поле,Ћюбое значение на кириллице,-,false,сегодн€шн€€ дата,active_search
+2,User?^^^,gram,,Ћюбое значение на кириллице,пустое поле,admin,true,люба€ будуща€ дата,on_project
+3,User?&&&,gram?$$,user4@gmail.com,только спецсимволы ,любое значение на латинице с цифрами,-,-,сегодн€шн€€ дата,-
+4,User?$%^,,asddsdsd,пустое поле,Ћюбое значение на кириллице,user,true,люба€ прошла€ дата,active_search
+5,User?##,иванов,апапап,любое значение на латинице,только спецсимволы ,-,false,пустое поле,pause_search
+6,User)),darth,,Ћюбое значение на кириллице,пустое поле,user,-,25.08.2024,on_project
+7,,,апапап,ыфв,asdsa12312,user,false,25.08.2024,-
+8,,vader,user3@yandex.ru,,?$%$%,user,true,сегодн€шн€€ дата,pause_search
+9,,vader?%$%,gggggg,vfvfv,,admin,false,25.08.2024,on_project
+10,,,ппппп,ыва,hghgh87,-,-,люба€ будуща€ дата,-
+11,,фывфвы,,<=%$,апроо,user,true,сегодн€шн€€ дата,active_search
+12,,asdasd,notuser6@gmail.com,,%$%^,admin,-,люба€ прошла€ дата,pause_search
+13,,Qwerty?%%?,dfggfg,gfgfgf,,-,true,пустое поле,on_project
+14,иван,фывфвы,uil@gmail.com,zov,hhhh777,user,-,пустое поле,-
+15,иван,ggg,ggfgg,зов,итити,admin,true,25.08.2024,active_search
+16,неиван,glhf,рпрп,##)((,%%^&,-,false,люба€ будуща€ дата,pause_search
+17,иван,,,,,user,-,сегодн€шн€€ дата,on_project
+18,папа,фывфвыр,yyyy@mail.ru,bgbgb,azazaz34,-,true,25.08.2024,-
+19,мама,boom,hjjhj,рпрпрп,апапрот,user,false,люба€ будуща€ дата,active_search
+20,сестра,bjj34,рппррп,&^%,%$%$%$,admin,-,сегодн€шн€€ дата,pause_search
+21,вап,,,,,-,true,люба€ прошла€ дата,on_project
+22,йцу,jojo,гггг,,ghnhj111,user,-,люба€ прошла€ дата,-
+23,вапвап,t>%%>%,,kjkjkjk,ррррр,admin,true,пустое поле,active_search
+24,ипипи,,row@mail.ru,рпрпрпр,#$%,-,-,25.08.2024,pause_search
+25,рпрпр,фывввв,gygygy,%445,,user,true,люба€ будуща€ дата,on_project
+26,роро,asdasdfff,прпрпрпр,,ggfbbb1234,admin,false,сегодн€шн€€ дата,-
+27,нннн,Qwehh?%%*%*,,gfgfggg,ололол,-,-,25.08.2024,active_search
+28,ггггг,,trtrt@gmail.com,ипипип,$##$,user,true,люба€ будуща€ дата,pause_search
+29,рппрпр,фыввыфввв,bbbbb,$%,,-,false,сегодн€шн€€ дата,on_project
+30,User%^,ggggh?%%(%,bbbb@mail.ru,^%%,vfvf12334,-,true,сегодн€шн€€ дата,-
+31,User&^,,yuyuyu,,папапа,user,false,люба€ прошла€ дата,active_search
+32,User_%^,иваннн,папап,vanyaIvanov,$%^^,-,-,пустое поле,pause_search
+33,User*&,simpson,,ипиииии,,user,true,25.08.2024,on_project
+34,User(*,dddzzz?%%$%,fgg@mail.ru,^%^%%,fggggg444,admin,-,люба€ будуща€ дата,-
+35,User&*,,hhhhh,,апапапп,-,true,сегодн€шн€€ дата,active_search
+36,User%%##,папапап,мвмвмв,dsdffg,asdasd333,user,false,25.08.2024,pause_search
+37,User##@#,adadada,,папрррп,,admin,-,люба€ будуща€ дата,on_project
+38,,,гнгнгнг,ттртр,saddd666,-,false,люба€ будуща€ дата,-
+39,,рпрррр,,&^%$,прпрп,user,-,сегодн€шн€€ дата,active_search
+40,,yuyuyu,wewe@gmail.com,,%$%^&*,admin,true,люба€ прошла€ дата,pause_search
+41,,avp*$&%*,jhjhjh,vanhhhn,,-,false,пустое поле,on_project
+42,,,апапап,апрр,hghhh,user,-,25.08.2024,-
+43,,рррррппп,,^%%%^&*,fgfgg333,-,true,люба€ будуща€ дата,active_search
+44,,bbbgb,zaza@mail.ru,,%$$$$$,user,-,сегодн€шн€€ дата,pause_search
+45,,zzzz?%$*$*,ghghghg,папапапап,,admin,true,25.08.2024,on_project
